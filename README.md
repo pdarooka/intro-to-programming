@@ -3,57 +3,57 @@
 # Self-taught Python with these projects:
 
 ## Basic Data Types
-* Letter Counter App
-* Miles Per Hour Conversion App
-* Temperature Conversion App
-* Right Triangle Solver App
-* Multiplication Exponent Table Program
+* Letter Counter
+* Miles Per Hour Conversion
+* Temperature Conversion
+* Right Triangle Solver
+* Multiplication Exponent Table
 
 ## Lists
-* Grade Sorter App
-* Different Types of Lists Program
-* Grocery List App
-* Basketball Roster Program
-* Favorite Teachers Program
+* Grade Sorter
+* Different Types of Lists
+* Grocery List
+* Basketball Roster
+* Favorite Teachers
 
 ## For Loops
-* Binary Hexadecimal Conversion App
-* Quadratic Equation Solver App
-* Factorial Calculator App
-* Fibonacci Calculator App
-* Grade Point Average Calculator App
+* Binary Hexadecimal Conversion
+* Quadratic Equation Solver
+* Factorial Calculator
+* Fibonacci Calculator
+* Grade Point Average Calculator
 
 ## Conditionals
-* Shipping Accounts Program
-* Coin Toss App
-* Voter Registration App
-* Guess My Number App
-* Rock, Paper, Scissors App
+* Shipping Accounts
+* Coin Toss
+* Voter Registration
+* Guess My Number
+* Rock, Paper, Scissors
 
 ## Dictionaries
-* Thesaurus App
-* Database Admin Program
-* Yes No Polling App
-* Frequency Analysis App
-* Code Breakers App
+* Thesaurus
+* Database Admin
+* Yes/No Polling
+* Frequency Analysis
+* Code Breakers
 
 ## While Loops
-* Factor Generator App
-* Even Odd Number Sorter App
-* Prime Number App
-* Guess the Word App
-* PowerBall Simulation App
+* Factor Generator
+* Even Odd Number Sorter
+* Prime Number
+* Guess the Word
+* PowerBall Simulation
 
 ## Functions
-* Python Dice App
-* Python Calculator App
+* Python Dice
+* Python Calculator
 * Bank Deposit and Withdrawal Program
-* Head to Head Tic-Tac-Toe App
-* Loan Calculator App
+* Head to Head Tic-Tac-Toe
+* Loan Calculator
 
 ## Classes
-* Pythonagachi Simulator App
-* Casino Blackjack App
-* Pykemon Simulator App
-* Epidemic Outbreak Terminal App
-* Epidemic Outbreak GUI App
+* Pythonagachi Simulator
+* Casino Blackjack
+* Pykemon Simulator
+* Epidemic Outbreak Terminal Program
+* Epidemic Outbreak GUI Program
