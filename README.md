@@ -11,4 +11,4 @@ python3 <file_name>.py
 '''
 
 ## Acknowledgments
-*Professor Michael Eramo* -- inspiration for the concept of "The Art of Doing"
+**Professor Michael Eramo** -- inspiration for the concept of "The Art of Doing"
