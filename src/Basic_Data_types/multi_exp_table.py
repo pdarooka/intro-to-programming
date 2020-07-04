@@ -1,4 +1,4 @@
-# Basic Data Types: MPH to KmPH converter
+# Basic Data Types: Multiplication and Exponents Table
 
 # Welcome message
 print("Welcome!")
