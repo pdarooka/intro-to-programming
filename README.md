@@ -1,57 +1,57 @@
 # PD's Python Projects
-# ~ "The Art of Doing" 
-# Self-taught Python with these projects:
+## ~ "The Art of Doing" 
+### Self-taught Python with these projects:
 
-## Basic Data Types
+### Basic Data Types
 * Letter Counter
 * Miles Per Hour Conversion
 * Temperature Conversion
 * Right Triangle Solver
 * Multiplication Exponent Table
 
-## Lists
+### Lists
 * Grade Sorter
 * Different Types of Lists
 * Grocery List
 * Basketball Roster
 * Favorite Teachers
 
-## For Loops
+### For Loops
 * Binary Hexadecimal Conversion
 * Quadratic Equation Solver
 * Factorial Calculator
 * Fibonacci Calculator
 * Grade Point Average Calculator
 
-## Conditionals
+### Conditionals
 * Shipping Accounts
 * Coin Toss
 * Voter Registration
 * Guess My Number
 * Rock, Paper, Scissors
 
-## Dictionaries
+### Dictionaries
 * Thesaurus
 * Database Admin
 * Yes/No Polling
 * Frequency Analysis
 * Code Breakers
 
-## While Loops
+### While Loops
 * Factor Generator
 * Even Odd Number Sorter
 * Prime Number
 * Guess the Word
 * PowerBall Simulation
 
-## Functions
+### Functions
 * Python Dice
 * Python Calculator
 * Bank Deposit and Withdrawal Program
 * Head to Head Tic-Tac-Toe
 * Loan Calculator
 
-## Classes
+### Classes
 * Pythonagachi Simulator
 * Casino Blackjack
 * Pykemon Simulator
