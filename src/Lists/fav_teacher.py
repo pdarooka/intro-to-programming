@@ -19,7 +19,7 @@ print(f"You have {len(fav_teachers)} favourite teachers\n")
 
 # Simulation
 tmp = fav_teachers.pop(0)
-fav_teachers[.insert(0, input(f"Oops, {tmp} is no longer your first favorite teacher. Who is your new favorite teacher:\n").title())
+fav_teachers.insert(0, input(f"Oops, {tmp} is no longer your first favorite teacher. Who is your new favorite teacher:\n").title())
 
 print(f"\nYour favourite teachers are {fav_teachers}\n")
 print(f"Your favourite teachers in alphabetical order are {sorted(fav_teachers)}\n")
