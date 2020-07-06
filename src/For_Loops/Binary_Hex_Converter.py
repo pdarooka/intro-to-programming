@@ -4,7 +4,8 @@
 print("Welcome!")
 
 # Gets user input
-num_queries = int(input("How many values would you like to convert from binary to hexadecimal?\n"))
+num_queries = int(
+    input("How many values would you like to convert from binary to hexadecimal?\n"))
 decimal = list(range(1, num_queries+1))
 binary = [bin(x) for x in decimal]
 hexadecimal = [hex(x) for x in decimal]
