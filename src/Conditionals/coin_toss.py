@@ -13,6 +13,7 @@ if to_see.lower() == 'y':
 else:
     to_see = False
 
+# Flips the coin
 num_heads = 0
 num_tails = 0
 
@@ -29,9 +30,11 @@ for counter in range(times):
     if num_heads == num_tails:
         print(f"At {counter} flips, the number of heads and tails were equal at {num_heads} each.")
 
+# Processes the percentages
 heads_pctg = 100 * num_heads / times
 tails_pctg = 100 * num_tails / times
 
+# Prints the results
 print(f"\nResults of flipping the coin {times} times:")
 print("Side\t\tCount\t\tPercentage")
 print(f"Heads\t\t{num_heads}/{times}\t\t{round(heads_pctg,2)}%")
