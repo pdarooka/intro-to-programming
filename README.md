@@ -13,7 +13,7 @@ All the project files are under the **src** folder -- organized by languages/top
 Please ensure you have navigated to the folder enclosing the source code and use the following command to run the python3 file.
 
 ```
-python3 <file_name>.py
+$ python3 <file_name>.py
 ```
 
 ### For C++ Files:
@@ -21,7 +21,8 @@ python3 <file_name>.py
 Please ensure you have navigated to the folder enclosing the source code and use the following command to run the cpp file.
 
 ```
-g++ <file_name>.cpp -std=c++11
+$ g++ <file_name>.cpp -std=c++11
+$ ./a.out
 ```
 
 ## Acknowledgments
