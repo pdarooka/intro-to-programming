@@ -44,6 +44,6 @@ else:
 # Admin login
 if input("To see the voting results enter the password: ") == pwd:
     for k, v in results.items():
-        print(f"Voter: {k}\t\tVote: {v}")
+        print(f"Voter: {k}\t\tVote (y/n)): {v}")
 else:
     print("That is not the correct password!")
